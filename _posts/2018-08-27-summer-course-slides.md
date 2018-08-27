@@ -10,7 +10,7 @@ title: 2018 北大暑期课程讲义下载
 
 ## 其它学习资源
 
-> 这里只列出个人理解和建议，只求精，不求全，完整的资源可参考 [awesome-deep-learning](https://github.com/ChristosChristofidis/awesome-deep-learning) 等
+> 这里只列出个人理解和挑选出的资源，更多的资源可参考 [awesome-deep-learning](https://github.com/ChristosChristofidis/awesome-deep-learning) 等
 
 ### 深度学习基础
 
@@ -24,8 +24,9 @@ title: 2018 北大暑期课程讲义下载
 ### Tensorflow框架 
 
 - 课程
-  - [CS20si](https://web.stanford.edu/class/cs20si/index.html) 没有视频，只有slides和代码
   - [google机器学习速成课程](https://developers.google.com/machine-learning/crash-course/?hl=zh-cn) 使用Tensorflow API 熟悉机器学习的基本概念
+  - [CS20si](https://web.stanford.edu/class/cs20si/index.html) 较为系统的讲解Tensorflow，但没有视频，只有slides和代码
+
 - 书
   - Hands-On Machine Learning with Scikit-Learn and TensorFlow: Concepts, Tools, and Techniques to Build Intelligent Systems 实践性很强的一本书，貌似有电子版下载
 
@@ -40,4 +41,6 @@ title: 2018 北大暑期课程讲义下载
 ### 其它
 
 - 中文课程的也可参考 台大李宏毅 的[课程](http://speech.ee.ntu.edu.tw/~tlkagk/courses.html)
+- 典型论文结合相应的 github 开源实现
+
 

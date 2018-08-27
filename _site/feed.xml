@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.7.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2018-08-27T18:36:07+08:00</updated><id>http://localhost:4000/</id><entry><title type="html">2018 北大暑期课程讲义下载</title><link href="http://localhost:4000/2018/08/27/summer-course-slides.html" rel="alternate" type="text/html" title="2018 北大暑期课程讲义下载" /><published>2018-08-27T00:00:00+08:00</published><updated>2018-08-27T00:00:00+08:00</updated><id>http://localhost:4000/2018/08/27/summer-course-slides</id><content type="html" xml:base="http://localhost:4000/2018/08/27/summer-course-slides.html">&lt;h1 id=&quot;2018-北大暑期课程讲义&quot;&gt;2018 北大暑期课程讲义&lt;/h1&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.7.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2018-08-27T23:48:45+08:00</updated><id>http://localhost:4000/</id><entry><title type="html">2018 北大暑期课程讲义下载</title><link href="http://localhost:4000/2018/08/27/summer-course-slides.html" rel="alternate" type="text/html" title="2018 北大暑期课程讲义下载" /><published>2018-08-27T00:00:00+08:00</published><updated>2018-08-27T00:00:00+08:00</updated><id>http://localhost:4000/2018/08/27/summer-course-slides</id><content type="html" xml:base="http://localhost:4000/2018/08/27/summer-course-slides.html">&lt;h1 id=&quot;2018-北大暑期课程讲义&quot;&gt;2018 北大暑期课程讲义&lt;/h1&gt;
 
 &lt;h2 id=&quot;deep-learning-in-action-computer-vision&quot;&gt;Deep learning in Action: Computer Vision&lt;/h2&gt;
 
@@ -9,7 +9,7 @@
 &lt;h2 id=&quot;其它学习资源&quot;&gt;其它学习资源&lt;/h2&gt;
 
 &lt;blockquote&gt;
-  &lt;p&gt;这里只列出个人理解和建议，只求精，不求全，完整的资源可参考 &lt;a href=&quot;https://github.com/ChristosChristofidis/awesome-deep-learning&quot;&gt;awesome-deep-learning&lt;/a&gt; 等&lt;/p&gt;
+  &lt;p&gt;这里只列出个人理解和挑选出的资源，更多的资源可参考 &lt;a href=&quot;https://github.com/ChristosChristofidis/awesome-deep-learning&quot;&gt;awesome-deep-learning&lt;/a&gt; 等&lt;/p&gt;
 &lt;/blockquote&gt;
 
 &lt;h3 id=&quot;深度学习基础&quot;&gt;深度学习基础&lt;/h3&gt;
@@ -34,8 +34,8 @@
 &lt;ul&gt;
   &lt;li&gt;课程
     &lt;ul&gt;
-      &lt;li&gt;&lt;a href=&quot;https://web.stanford.edu/class/cs20si/index.html&quot;&gt;CS20si&lt;/a&gt; 没有视频，只有slides和代码&lt;/li&gt;
       &lt;li&gt;&lt;a href=&quot;https://developers.google.com/machine-learning/crash-course/?hl=zh-cn&quot;&gt;google机器学习速成课程&lt;/a&gt; 使用Tensorflow API 熟悉机器学习的基本概念&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://web.stanford.edu/class/cs20si/index.html&quot;&gt;CS20si&lt;/a&gt; 较为系统的讲解Tensorflow，但没有视频，只有slides和代码&lt;/li&gt;
     &lt;/ul&gt;
   &lt;/li&gt;
   &lt;li&gt;书
@@ -65,4 +65,5 @@
 
 &lt;ul&gt;
   &lt;li&gt;中文课程的也可参考 台大李宏毅 的&lt;a href=&quot;http://speech.ee.ntu.edu.tw/~tlkagk/courses.html&quot;&gt;课程&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;典型论文结合相应的 github 开源实现&lt;/li&gt;
 &lt;/ul&gt;</content><author><name></name></author><summary type="html">2018 北大暑期课程讲义</summary></entry></feed>
