@@ -7,4 +7,4 @@ title: hello, world
 
 ## world!
 
-### {{ page.data | data_to_string }}
+### 测试中文
