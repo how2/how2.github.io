@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.7.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2018-08-27T18:32:23+08:00</updated><id>http://localhost:4000/</id><entry><title type="html">2018 北大暑期课程讲义下载</title><link href="http://localhost:4000/2018/08/27/summer-course-slides.html" rel="alternate" type="text/html" title="2018 北大暑期课程讲义下载" /><published>2018-08-27T00:00:00+08:00</published><updated>2018-08-27T00:00:00+08:00</updated><id>http://localhost:4000/2018/08/27/summer-course-slides</id><content type="html" xml:base="http://localhost:4000/2018/08/27/summer-course-slides.html">&lt;h1 id=&quot;2018-北大暑期课程讲义&quot;&gt;2018 北大暑期课程讲义&lt;/h1&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.7.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2018-08-27T18:36:07+08:00</updated><id>http://localhost:4000/</id><entry><title type="html">2018 北大暑期课程讲义下载</title><link href="http://localhost:4000/2018/08/27/summer-course-slides.html" rel="alternate" type="text/html" title="2018 北大暑期课程讲义下载" /><published>2018-08-27T00:00:00+08:00</published><updated>2018-08-27T00:00:00+08:00</updated><id>http://localhost:4000/2018/08/27/summer-course-slides</id><content type="html" xml:base="http://localhost:4000/2018/08/27/summer-course-slides.html">&lt;h1 id=&quot;2018-北大暑期课程讲义&quot;&gt;2018 北大暑期课程讲义&lt;/h1&gt;
 
 &lt;h2 id=&quot;deep-learning-in-action-computer-vision&quot;&gt;Deep learning in Action: Computer Vision&lt;/h2&gt;
 
@@ -65,8 +65,4 @@
 
 &lt;ul&gt;
   &lt;li&gt;中文课程的也可参考 台大李宏毅 的&lt;a href=&quot;http://speech.ee.ntu.edu.tw/~tlkagk/courses.html&quot;&gt;课程&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</content><author><name></name></author><summary type="html">2018 北大暑期课程讲义</summary></entry><entry><title type="html">hello, world</title><link href="http://localhost:4000/2015/04/23/hello-world.html" rel="alternate" type="text/html" title="hello, world" /><published>2015-04-23T00:00:00+08:00</published><updated>2015-04-23T00:00:00+08:00</updated><id>http://localhost:4000/2015/04/23/hello-world</id><content type="html" xml:base="http://localhost:4000/2015/04/23/hello-world.html">&lt;h1 id=&quot;hello&quot;&gt;Hello&lt;/h1&gt;
-
-&lt;h2 id=&quot;world&quot;&gt;world!&lt;/h2&gt;
-
-&lt;h3 id=&quot;测试中文&quot;&gt;测试中文&lt;/h3&gt;</content><author><name></name></author><summary type="html">Hello</summary></entry></feed>
+&lt;/ul&gt;</content><author><name></name></author><summary type="html">2018 北大暑期课程讲义</summary></entry></feed>
